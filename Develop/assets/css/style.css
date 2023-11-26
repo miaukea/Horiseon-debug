@@ -15,12 +15,12 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -32,11 +32,11 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+ul {
     list-style-type: none;
 }
 
-header div ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -86,17 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+section {
     margin-bottom: 32px;
     color: #ffffff;
 }
